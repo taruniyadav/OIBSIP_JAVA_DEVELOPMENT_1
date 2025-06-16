@@ -1,7 +1,9 @@
- Number Guessing Game (Java Swing)
+# Number Guessing Game (Java Swing)
 A simple and interactive number guessing game built using Java Swing. The game consists of multiple rounds, where players try to guess a randomly generated number between 1 and 100 within a limited number of attempts.
 
-Features
+---
+
+#Features
  Intuitive graphical interface using Java Swing.
 
  Random number generation between 1 and 100.
@@ -16,8 +18,8 @@ Real-time feedback on guesses.
 
  Final score displayed at the end of the game.
 
-
- Getting Started
+----
+ #Getting Started
 Prerequisites
 Java JDK 8 or higher
 
@@ -25,8 +27,9 @@ A Java IDE like IntelliJ IDEA, Eclipse, or VS Code
 
 Alternatively, you can compile and run it via the terminal
 
+----
 
- Project Structure
+ #Project Structure
 bash
 Copy
 Edit
@@ -37,17 +40,8 @@ number-guessing-game/
  Contributing
 Contributions, feedback, and suggestions are welcome!
 
-Fork the project
+-----
 
-Create your feature branch (git checkout -b feature/YourFeature)
-
-Commit your changes (git commit -m 'Add some feature')
-
-Push to the branch (git push origin feature/YourFeature)
-
-Open a pull request
-
-
- Author
+ #Author
 Taruni Yadav Chirraboina
 https://github.com/taruniyadav?tab=repositories
